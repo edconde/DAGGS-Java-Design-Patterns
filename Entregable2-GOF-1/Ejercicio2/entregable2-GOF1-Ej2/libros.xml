@@ -1,0 +1,17 @@
+<libros>
+<libro>
+<titulo>EL QUIJOTE</titulo>
+<autor>CERVANTES</autor>
+<isbn>12346</isbn>
+</libro>
+<libro>
+<titulo>LA DIVINA COMEDIA</titulo>
+<autor>DANTE</autor>
+<isbn>75887</isbn>
+</libro>
+<libro>
+<titulo>LA CELESTINA</titulo>
+<autor>FERNANDO DE ROJAS</autor>
+<isbn>12142</isbn>
+</libro>
+</libros>

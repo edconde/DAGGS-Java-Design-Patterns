@@ -1,0 +1,8 @@
+[ INFO ] 2017-11-05T11:51:41.831  ** Iniciando calculadora... ** 
+[ INFO ] 2017-11-05T11:51:43.970 Ejecutando operación Suma.
+[ INFO ] 2017-11-05T11:51:45.368 Ejecución de operación Suma finalizada.
+[ INFO ] 2017-11-05T11:51:49.927 Ejecutando operación División.
+[ INFO ] 2017-11-05T11:51:51.663 Ejecución de operación División finalizada.
+[ INFO ] 2017-11-05T11:51:56.626 Ejecutando operación Raíz.
+[ INFO ] 2017-11-05T11:51:57.892 Ejecución de operación Raíz finalizada.
+[ INFO ] 2017-11-05T11:52:03.826  ** Apagando calculadora... ** 
